@@ -1,0 +1,1 @@
+Haskell Programming by Christopher Allen and Julie Moronuki
